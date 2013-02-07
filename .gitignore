@@ -1,0 +1,15 @@
+.DS_Store
+.metadata
+
+
+.classpath
+.project
+.settings
+
+bin/
+gen/
+
+*.class
+*.apk
+
+project.properties
