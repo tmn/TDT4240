@@ -17,7 +17,4 @@ public class PongActivity extends Activity {
 		game.pushState(new PongState(this));
 		setContentView(game);
 	}
-
-
-
 }

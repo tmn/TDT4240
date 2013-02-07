@@ -51,5 +51,4 @@ public class Ball extends Sprite
 		Rect rect = new Rect((int)getX(), (int)getY(), (int)getX() + size, (int)getY() + size);
 		canvas.drawBitmap(bmp, collisionBox, rect, null);
 	}
-	
 }

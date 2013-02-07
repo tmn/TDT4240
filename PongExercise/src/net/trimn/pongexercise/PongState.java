@@ -153,7 +153,6 @@ public class PongState extends State implements TouchListener
 		return gameState;
 	}
 	
-	
 	public boolean onTouchMove(MotionEvent event)
 	{
 		// touch for player 1
