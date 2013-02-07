@@ -7,6 +7,10 @@ import android.graphics.Color;
 import android.graphics.Rect;
 import android.graphics.Bitmap.Config;
 
+/**
+ * Øving1 - task4 i prigramvarearkitektur
+ * @author Tri M. Nguyen 
+ */
 public class Player extends Sprite {
 	
 	private int score;

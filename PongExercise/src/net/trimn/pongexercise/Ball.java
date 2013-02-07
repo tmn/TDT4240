@@ -7,6 +7,11 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Rect;
 
+/**
+ * Øving1 - task4 i prigramvarearkitektur
+ * Øving2 - Implement Singleton
+ * @author Tri M. Nguyen 
+ */
 public class Ball extends Sprite
 {
 	private static final Ball ball = new Ball();

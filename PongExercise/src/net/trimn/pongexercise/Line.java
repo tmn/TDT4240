@@ -6,6 +6,10 @@ import android.graphics.Bitmap.Config;
 import android.graphics.Canvas;
 import android.graphics.Rect;
 
+/**
+ * Øving1 - task4 i prigramvarearkitektur
+ * @author Tri M. Nguyen 
+ */
 public class Line extends Sprite
 {
 	

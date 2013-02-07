@@ -10,6 +10,7 @@ import android.view.MotionEvent;
 
 /**
  * Øving1 - task4 i prigramvarearkitektur
+ * Øving2 - Implement Singleton
  * @author Tri M. Nguyen 
  */
 public class PongState extends State implements TouchListener
